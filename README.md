@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Welcome to my home page!
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crlcrl1&layout=compact)
 
 <!--
